@@ -8,3 +8,5 @@ La carpeta data/ solo incluye resultados del software y los archivos usados en e
 En el directorio src/ se encuentra el código fuente que puede correrse desde la carpeta principal
 
 Para ver la página se debe correr mediante streamlit el archivo app_gui.py
+
+Para abrir el video se recomienda hacerlo desde el repositorio clonado localmente, de no hacerlo, al abrir el archivo desde GitHub también es posible encontrar en el código el enlace a Youtube para copiar y pegar. 
